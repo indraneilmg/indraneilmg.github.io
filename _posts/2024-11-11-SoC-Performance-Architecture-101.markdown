@@ -161,7 +161,7 @@ By similar logic as the above step, the BW required to sustain the Peak Performa
 The calculations above are for a best case scenario, assuming ideal conditions. In a real world case, there are multiple limiters to achieving peak performance like impact of coherence and control mechanisms, access latencies, cache contention, misses, etc. Our goal as SoC performance architects is to improve/optimize the SoC construction defined by the architects.<br>
 <br>
 <strong>If you’re reading this and find mistakes or have suggestions, please feel free to point them out. Like I said, this is more of a learning/self-documenting exercise than anything else.</strong><br>
-
+<br>
 Thanks James (@jamesabel) for helping review!
 <br></p>
 
